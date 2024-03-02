@@ -1,7 +1,6 @@
-### Hi there 👋
-![wlghd5524's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlghd5524&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlghd5524)](https://solved.ac/wlghd5524)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlghd5524&layout=compact 스타일&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlghd5524&layout=compact&theme=onedark)
 <!--
 **wlghd5524/wlghd5524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
